@@ -1,0 +1,304 @@
+{
+  "filmler" : {
+    "-LC2rUw0J9m1P-WRHm2q" : {
+      "film_ad" : "Interstellar",
+      "film_id" : "",
+      "film_resim" : "interstellar",
+      "film_yil" : 2015,
+      "kategori_ad" : "Bilim Kurgu",
+      "yonetmen_ad" : "Christopher Nolan"
+    },
+    "-LC2rUwGjO4poSUOpZ-o" : {
+      "film_ad" : "Inception",
+      "film_id" : "",
+      "film_resim" : "inception",
+      "film_yil" : 2010,
+      "kategori_ad" : "Bilim Kurgu",
+      "yonetmen_ad" : "Christopher Nolan"
+    },
+    "-LC2rUwHM2QED2vtDytS" : {
+      "film_ad" : "The Pianist",
+      "film_id" : "",
+      "film_resim" : "thepianist",
+      "film_yil" : 2002,
+      "kategori_ad" : "Drama",
+      "yonetmen_ad" : "Roman Polanski"
+    },
+    "-LC2rUwHM2QED2vtDytT" : {
+      "film_ad" : "Bir Zamanlar Anadolu'da",
+      "film_id" : "",
+      "film_resim" : "birzamanlaranadoluda",
+      "film_yil" : 2011,
+      "kategori_ad" : "Drama",
+      "yonetmen_ad" : "Nuri Bilge Ceylan"
+    },
+    "-LC2rUwHM2QED2vtDytU" : {
+      "film_ad" : "The Hateful Eight",
+      "film_id" : "",
+      "film_resim" : "thehatefuleight",
+      "film_yil" : 2015,
+      "kategori_ad" : "Aksiyon",
+      "yonetmen_ad" : "Quentin Tarantino"
+    },
+    "-LC2rUwIPsuoRfkA8B0w" : {
+      "film_ad" : "Django",
+      "film_id" : "",
+      "film_resim" : "django",
+      "film_yil" : 2013,
+      "kategori_ad" : "Aksiyon",
+      "yonetmen_ad" : "Quentin Tarantino"
+    }
+  },
+  "kategoriler" : {
+    "-LC2qFe5D5AXVsclrmcU" : {
+      "kategori_ad" : "Aksiyon",
+      "kategori_id" : ""
+    },
+    "-LC2qFeC2pi8rjVXVm8W" : {
+      "kategori_ad" : "Drama",
+      "kategori_id" : ""
+    },
+    "-LC2qFeD44SxH0Dxb5xd" : {
+      "kategori_ad" : "Bilim Kurgu",
+      "kategori_id" : ""
+    }
+  },
+  "kelimeler" : {
+    "-LBuc3OlPPmRq2mwNSZp" : {
+      "ingilizce" : "apple",
+      "kelime_id" : "",
+      "turkce" : "elma"
+    },
+    "-LBuc3OvTw-Kf7HbAmib" : {
+      "ingilizce" : "door",
+      "kelime_id" : "",
+      "turkce" : "kapı"
+    },
+    "-LBuc3Owz_V0OU5dODfu" : {
+      "ingilizce" : "pencil",
+      "kelime_id" : "",
+      "turkce" : "kalem"
+    },
+    "-LBuc3Owz_V0OU5dODfv" : {
+      "ingilizce" : "window",
+      "kelime_id" : "",
+      "turkce" : "pencere"
+    },
+    "-LBuc3OyGYTBvsN0Qybk" : {
+      "ingilizce" : "table",
+      "kelime_id" : "",
+      "turkce" : "masa"
+    },
+    "-LBuc3P2DL_GpwJcpN4v" : {
+      "ingilizce" : "chair",
+      "kelime_id" : "",
+      "turkce" : "sandalye"
+    },
+    "-LBuc3P3UF3t0SEc5mB6" : {
+      "ingilizce" : "lock",
+      "kelime_id" : "",
+      "turkce" : "kilit"
+    },
+    "-LBuc3P8_bivuqsJJxQe" : {
+      "ingilizce" : "box",
+      "kelime_id" : "",
+      "turkce" : "kutu"
+    },
+    "-LBuc3PA9MxnZe-NyqcV" : {
+      "ingilizce" : "night",
+      "kelime_id" : "",
+      "turkce" : "gece"
+    },
+    "-LBuc3PCW9E3PEZ-ufZ7" : {
+      "ingilizce" : "day",
+      "kelime_id" : "",
+      "turkce" : "gün"
+    },
+    "-LBuc3PDKfevXFH-OkTV" : {
+      "ingilizce" : "morning",
+      "kelime_id" : "",
+      "turkce" : "sabah"
+    },
+    "-LBuc3PDKfevXFH-OkTW" : {
+      "ingilizce" : "cable",
+      "kelime_id" : "",
+      "turkce" : "kablo"
+    },
+    "-LBuc3PDKfevXFH-OkTX" : {
+      "ingilizce" : "room",
+      "kelime_id" : "",
+      "turkce" : "oda"
+    },
+    "-LBuc3PFqFieW8a1zy1e" : {
+      "ingilizce" : "phone",
+      "kelime_id" : "",
+      "turkce" : "telefon"
+    },
+    "-LBuc3PKmHCN0iVLRRgL" : {
+      "ingilizce" : "sun",
+      "kelime_id" : "",
+      "turkce" : "güneş"
+    },
+    "-LBuc3PM2izk9W3hNXye" : {
+      "ingilizce" : "moon",
+      "kelime_id" : "",
+      "turkce" : "ay"
+    },
+    "-LBuc3PRsA6KpkFotd7n" : {
+      "ingilizce" : "world",
+      "kelime_id" : "",
+      "turkce" : "dünya"
+    },
+    "-LBuc3PRsA6KpkFotd7o" : {
+      "ingilizce" : "book",
+      "kelime_id" : "",
+      "turkce" : "kitap"
+    },
+    "-LBuc3PSHLHH0savgkgJ" : {
+      "ingilizce" : "light",
+      "kelime_id" : "",
+      "turkce" : "ışık"
+    },
+    "-LBuc3PSHLHH0savgkgK" : {
+      "ingilizce" : "red",
+      "kelime_id" : "",
+      "turkce" : "kırmızı"
+    },
+    "-LBuc3PSHLHH0savgkgL" : {
+      "ingilizce" : "green",
+      "kelime_id" : "",
+      "turkce" : "yeşil"
+    },
+    "-LBuc3PTH95ph8pO_Ayo" : {
+      "ingilizce" : "grey",
+      "kelime_id" : "",
+      "turkce" : "gri"
+    },
+    "-LBuc3PglvM1fRnHcuXS" : {
+      "ingilizce" : "yellow",
+      "kelime_id" : "",
+      "turkce" : "sarı"
+    },
+    "-LBuc3PhTgbOxOFHPhMI" : {
+      "ingilizce" : "home",
+      "kelime_id" : "",
+      "turkce" : "ev"
+    },
+    "-LBuc3Pi9S6cQWlTlRbp" : {
+      "ingilizce" : "garden",
+      "kelime_id" : "",
+      "turkce" : "bahçe"
+    },
+    "-LBuc3Pi9S6cQWlTlRbq" : {
+      "ingilizce" : "kitchen",
+      "kelime_id" : "",
+      "turkce" : "mutfak"
+    },
+    "-LBuc3Pi9S6cQWlTlRbr" : {
+      "ingilizce" : "breakfast",
+      "kelime_id" : "",
+      "turkce" : "kahvaltı"
+    },
+    "-LBuc3Pi9S6cQWlTlRbs" : {
+      "ingilizce" : "dinner",
+      "kelime_id" : "",
+      "turkce" : "akşam yemeği"
+    },
+    "-LBuc3PjYZ4oxOrDXbHD" : {
+      "ingilizce" : "word",
+      "kelime_id" : "",
+      "turkce" : "kelime"
+    },
+    "-LBuc3PjYZ4oxOrDXbHE" : {
+      "ingilizce" : "school",
+      "kelime_id" : "",
+      "turkce" : "okul"
+    },
+    "-LBuc3PjYZ4oxOrDXbHF" : {
+      "ingilizce" : "doctor",
+      "kelime_id" : "",
+      "turkce" : "doktor"
+    },
+    "-LBuc3Pk60yezdqTuWO2" : {
+      "ingilizce" : "order",
+      "kelime_id" : "",
+      "turkce" : "sipariş"
+    },
+    "-LBuc3Pk60yezdqTuWO3" : {
+      "ingilizce" : "lesson",
+      "kelime_id" : "",
+      "turkce" : "ders"
+    },
+    "-LBuc3Pk60yezdqTuWO4" : {
+      "ingilizce" : "page",
+      "kelime_id" : "",
+      "turkce" : "sayfa"
+    },
+    "-LBuc3PtT_LQ_YyqFm_B" : {
+      "ingilizce" : "city",
+      "kelime_id" : "",
+      "turkce" : "şehir"
+    },
+    "-LBuc3PvCt3ecjuN9teO" : {
+      "ingilizce" : "country",
+      "kelime_id" : "",
+      "turkce" : "ülke"
+    },
+    "-LBuc3Pw2nuFAbTWwGG5" : {
+      "ingilizce" : "flag",
+      "kelime_id" : "",
+      "turkce" : "bayrak"
+    },
+    "-LBuc3PxC-RZe152ayst" : {
+      "ingilizce" : "homework",
+      "kelime_id" : "",
+      "turkce" : "ödev"
+    },
+    "-LBuc3Q-VuvP1eN3Gjy1" : {
+      "ingilizce" : "teacher",
+      "kelime_id" : "",
+      "turkce" : "öğretmen"
+    },
+    "-LBuc3Q0WEZvggPCqGCP" : {
+      "ingilizce" : "week",
+      "kelime_id" : "",
+      "turkce" : "hafta"
+    }
+  },
+  "kisiler" : {
+    "-LC2iv7Dm_GAatmdhreE" : {
+      "kisi_ad" : "Ahmet",
+      "kisi_id" : "",
+      "kisi_tel" : "123456"
+    },
+    "-LC2ixA6W5nElGORC8dm" : {
+      "kisi_ad" : "Zeynep",
+      "kisi_id" : "",
+      "kisi_tel" : "12312412"
+    },
+    "-LC2izwwzN2pYHuLIIZH" : {
+      "kisi_ad" : "Ömer",
+      "kisi_id" : "",
+      "kisi_tel" : "457567567"
+    },
+    "-LC2jq7wNtAqk40pBrmK" : {
+      "kisi_ad" : "Kadirvv",
+      "kisi_id" : "-LC2jq7vapxd7tNXAFwv",
+      "kisi_tel" : "0999999900000"
+    }
+  },
+  "notlar" : {
+    "-LC2fSz6GL7MHgHZuxM5" : {
+      "ders_adi" : "Tarih",
+      "not1" : 70,
+      "not2" : 90,
+      "not_id" : ""
+    },
+    "-LC2follpxM7jj4gn98L" : {
+      "ders_adi" : "Kimya",
+      "not1" : 50,
+      "not2" : 20,
+      "not_id" : ""
+    }
+  }
+}
