@@ -1,0 +1,275 @@
+{
+  "project_info": {
+    "project_number": "222853736168",
+    "firebase_url": "https://egitimveritabani.firebaseio.com",
+    "project_id": "egitimveritabani",
+    "storage_bucket": "egitimveritabani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222853736168:android:3441e94873d770e2",
+        "android_client_info": {
+          "package_name": "com.info.filmleruygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222853736168-27fkbh1m7q0g03n4ssle74r0lp6pr7om.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.info.filmleruygulamasi",
+            "certificate_hash": "230dcf949e2074a8b8efc73ab40240b50febaa22"
+          }
+        },
+        {
+          "client_id": "222853736168-18904u3mk29i7fkrsea9likjnu94d122.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9WfjXi3ttr8GL4DGgmO0xyYe_kYACfHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222853736168-18904u3mk29i7fkrsea9likjnu94d122.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222853736168:android:3ad7da26f105ddfe",
+        "android_client_info": {
+          "package_name": "com.info.firebasecalismasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222853736168-t0ovdbmd3s8vkbtjk4ge66gktb0ug86h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.info.firebasecalismasi",
+            "certificate_hash": "230dcf949e2074a8b8efc73ab40240b50febaa22"
+          }
+        },
+        {
+          "client_id": "222853736168-18904u3mk29i7fkrsea9likjnu94d122.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9WfjXi3ttr8GL4DGgmO0xyYe_kYACfHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222853736168-18904u3mk29i7fkrsea9likjnu94d122.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222853736168:android:55bc7624336df965",
+        "android_client_info": {
+          "package_name": "com.info.kisileruygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222853736168-vo6bq714p2o5kefkgv4slc0178gc6pta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.info.kisileruygulamasi",
+            "certificate_hash": "230dcf949e2074a8b8efc73ab40240b50febaa22"
+          }
+        },
+        {
+          "client_id": "222853736168-18904u3mk29i7fkrsea9likjnu94d122.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9WfjXi3ttr8GL4DGgmO0xyYe_kYACfHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222853736168-18904u3mk29i7fkrsea9likjnu94d122.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222853736168:android:8f4b2665235aa0da",
+        "android_client_info": {
+          "package_name": "com.info.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222853736168-segitk21fh9rejq7jv6jfo1c517uk7r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.info.myapplication",
+            "certificate_hash": "230dcf949e2074a8b8efc73ab40240b50febaa22"
+          }
+        },
+        {
+          "client_id": "222853736168-18904u3mk29i7fkrsea9likjnu94d122.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9WfjXi3ttr8GL4DGgmO0xyYe_kYACfHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222853736168-18904u3mk29i7fkrsea9likjnu94d122.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222853736168:android:003dbd2b746909b4",
+        "android_client_info": {
+          "package_name": "com.info.notuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222853736168-aqiibknvcrpkm8nfll9kk4e3uon1r8dt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.info.notuygulamasi",
+            "certificate_hash": "230dcf949e2074a8b8efc73ab40240b50febaa22"
+          }
+        },
+        {
+          "client_id": "222853736168-18904u3mk29i7fkrsea9likjnu94d122.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9WfjXi3ttr8GL4DGgmO0xyYe_kYACfHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222853736168-18904u3mk29i7fkrsea9likjnu94d122.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222853736168:android:55d656c5ba5b8927",
+        "android_client_info": {
+          "package_name": "com.info.sozlukuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222853736168-e1a577p05k7b3cma6jd7ur8lmfh6aijb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.info.sozlukuygulamasi",
+            "certificate_hash": "230dcf949e2074a8b8efc73ab40240b50febaa22"
+          }
+        },
+        {
+          "client_id": "222853736168-18904u3mk29i7fkrsea9likjnu94d122.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9WfjXi3ttr8GL4DGgmO0xyYe_kYACfHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222853736168-18904u3mk29i7fkrsea9likjnu94d122.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
